@@ -212,7 +212,7 @@ def show_dashboard():
         <p style="font-size: 18px;">
         
         - You can filter the data using slicers available on the dashboard.<br>
-        - To <strong>clear all slicers</strong>, <strong>CTRL +</strong> click on <strong>Clear All Slicers</strong> button.<br>
+        - To <strong>Clear all slicers</strong>, <strong>CTRL +</strong> click on <strong>Clear All Slicers</strong> button.<br>
         - To <strong>Apply all slicers</strong>, select the filters and do <strong>CTRL +</strong> click on <strong>Apply All Slicers</strong> to select multiple values within a slicer.<br>
         - You can explore different air quality indices and their associated data based on your selected filters.
         </p>
