@@ -271,7 +271,7 @@ def show_home_page():
             <li><strong>Avoid exercise in high pollution areas:</strong> If you exercise outdoors, do it when air quality is better.</li>
             <li><strong>Stay indoors:</strong> Keep windows and doors closed during times of high pollution.</li>
             <li><strong>Use air purifiers:</strong> Ensure good air quality inside your home, especially if you have respiratory issues.</li>
-            <li><strong>Wear a mask:</strong> Consider wearing a mask designed for air pollution (such as N95) when air quality is poor.</li>
+            <li><strong>Wear a mask:</strong> consider wearing a mask designed for air pollution (such as N95) when air quality is poor.</li>
         </ul>
         """, unsafe_allow_html=True)
 def login_page():
